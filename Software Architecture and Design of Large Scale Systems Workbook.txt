@@ -1,0 +1,18 @@
+What is Software architecture? 
+	Software architecture is the high-level structure of a software system — the way its components are organized, how they interact, and the guiding principles that shape its design and evolution.
+
+	It defines how the system works as a whole, not just what it does.
+	It’s about making the big decisions early:
+
+	How components communicate
+
+	How data flows
+
+	How to ensure scalability, maintainability, and performance
+
+	In simple words:
+
+	Software architecture is the blueprint that turns code into a coherent, reliable system.
+	
+
+the fisrt thing the architecture needs to understands is system requirement 
